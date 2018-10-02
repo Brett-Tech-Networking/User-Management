@@ -1,0 +1,14 @@
+C:\Users\bhudson\source\repos\User Management\User Management\bin\Debug\User Management.exe.config
+C:\Users\bhudson\source\repos\User Management\User Management\bin\Debug\User Management.exe
+C:\Users\bhudson\source\repos\User Management\User Management\bin\Debug\User Management.pdb
+C:\Users\bhudson\source\repos\User Management\User Management\bin\Debug\MetroFramework.Design.dll
+C:\Users\bhudson\source\repos\User Management\User Management\bin\Debug\MetroFramework.dll
+C:\Users\bhudson\source\repos\User Management\User Management\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\bhudson\source\repos\User Management\User Management\obj\Debug\User Management.csprojAssemblyReference.cache
+C:\Users\bhudson\source\repos\User Management\User Management\obj\Debug\User_Management.Form1.resources
+C:\Users\bhudson\source\repos\User Management\User Management\obj\Debug\User_Management.Properties.Resources.resources
+C:\Users\bhudson\source\repos\User Management\User Management\obj\Debug\User Management.csproj.GenerateResource.cache
+C:\Users\bhudson\source\repos\User Management\User Management\obj\Debug\User Management.csproj.CoreCompileInputs.cache
+C:\Users\bhudson\source\repos\User Management\User Management\obj\Debug\User Management.csproj.CopyComplete
+C:\Users\bhudson\source\repos\User Management\User Management\obj\Debug\User Management.exe
+C:\Users\bhudson\source\repos\User Management\User Management\obj\Debug\User Management.pdb
